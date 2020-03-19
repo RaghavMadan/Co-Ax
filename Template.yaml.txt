@@ -1,0 +1,5 @@
+- pattern: "{loki_1}" 
+- pattern: "{BIDS}"
+- pattern: "{sub-0813}"
+- pattern: "{ses-00}"
+- pattern: "{sub-0813_ses00_task-perc-criterion_08142019_15}"
